@@ -1,0 +1,10 @@
+# Datos crudos
+data/
+
+# Base de datos DuckDB
+*.duckdb
+
+# Python
+__pycache__/
+*.pyc
+.env
